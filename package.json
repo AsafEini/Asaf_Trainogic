@@ -4,6 +4,7 @@
   "description": "",
   "main": "project3.js",
   "scripts": {
+  "start": "node project3.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +22,6 @@
     "http-server": "^0.9.0",
     "open": "0.0.5",
     "opener": "^1.4.2",
-	"start": "node project3.js"
+	
   }
 }
